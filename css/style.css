@@ -1,0 +1,19 @@
+body {
+  margin-top: 60px;
+}
+
+/*center ul*/
+ul {
+  list-style-position: inside;
+    width: 70%;
+    margin: auto;
+}
+
+.pic_container {
+  background-color: white;
+}
+
+/* https://stackoverflow.com/questions/8706023/css-very-thin-font */
+.quote {
+font-family: 'Open Sans', sans-serif;
+}
